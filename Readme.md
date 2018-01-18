@@ -28,5 +28,5 @@
 ### Link Youtube ###
 https://goo.gl/EA1BR3
 
-### Link tới RePo trên Bitbucket ###
+### Link tới RePo trên Github ###
 https://github.com/DangQuangITus/Quick-Note
